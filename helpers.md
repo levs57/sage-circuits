@@ -20,7 +20,7 @@ $=p_i(x)$
 
 $(x^3+c)^{i \text{//} 2}$
 
-$y^{i\%2}$.
+$y^{i\text{%}2}$.
 
 **Definition:** regular functions are polynomials (mod EQ).
 
