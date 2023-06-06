@@ -13,14 +13,7 @@ For a polynomial of two variables $P(x,y)$ let's call its *normal form* a canoni
 
 Represent polynomial as $p_{i}(x)y^i$. Compute the sum:
 
-$\text{nf}(P)$
-
-$=p_i(x)$ 
-
-
-$(x^3+c)^{i \text{//} 2}$
-
-$y^{i\text{\%}2}$.
+$\text{nf}(P) = p_i(x) (x^3+c)^{i \text{//} 2} y^{i\text{ mod }2}$.
 
 **Definition:** regular functions are polynomials (mod EQ).
 
