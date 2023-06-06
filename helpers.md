@@ -12,7 +12,7 @@ For a polynomial of two variables $P(x,y)$ let's call its *normal form* a canoni
 ### Algorithm:
 
 Represent polynomial as $p_{i}(x)y^i$. Compute the sum:
-$\text{normal}\_\text{form}(P)=p_i(x)(x^3+c)^{i // 2}y^{i\%2}$.
+$\text{nf}(P)=p_i(x)(x^3+c)^{i // 2}y^{i\%2}$.
 
 **Definition:** regular functions are polynomials (mod EQ).
 
